@@ -1,0 +1,13 @@
+private $host = "mysql7002.site4now.net";
+private $db_name = "lapti7zh_dblogin";
+private $username = "lapti7zh_domingo";
+private $password = "1996ssvtrill";
+
+
+
+
+
+$DB_host = "mysql7002.site4now.net";
+$DB_user = "lqfjdgl3_domingo";
+$DB_pass = "1996ssvtrill";
+$DB_name = "lqfjdgl3_wei";
